@@ -6,10 +6,9 @@
 
 Thurin builds open, decentralized identity infrastructure. On-chain identity claims, public-key cryptography, and social proofs — no backends, no intermediaries, no data collection.
 
-### Apps
+### App
 
-- **[Scry](https://thurin.id)** — Explore and verify the Thurin identity graph
-- **[Signet](https://thurin.id/signet)** — Link your ETH address to your PGP key on-chain
+- **[thurin.id](https://thurin.id)** — Explore and verify the Thurin identity graph, and [attest](https://thurin.id/attest) your ETH address to your PGP key on-chain
 
 ### Tools
 
